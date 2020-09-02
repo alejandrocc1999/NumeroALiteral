@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceNumeralALiteral", "WebServiceNumeralALiteral\WebServiceNumeralALiteral.csproj", "{8C8DB956-6730-4C04-86D9-DFF8F7810A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServiceNumeralALiteral", "WebServiceNumeralALiteral\WebServiceNumeralALiteral.csproj", "{8C8DB956-6730-4C04-86D9-DFF8F7810A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestLiteral", "UnitTestLiteral\UnitTestLiteral.csproj", "{53D27FEE-97F6-493E-9E54-38CD5FE91661}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8C8DB956-6730-4C04-86D9-DFF8F7810A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C8DB956-6730-4C04-86D9-DFF8F7810A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C8DB956-6730-4C04-86D9-DFF8F7810A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D27FEE-97F6-493E-9E54-38CD5FE91661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D27FEE-97F6-493E-9E54-38CD5FE91661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D27FEE-97F6-493E-9E54-38CD5FE91661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D27FEE-97F6-493E-9E54-38CD5FE91661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
